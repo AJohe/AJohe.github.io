@@ -1,0 +1,58 @@
+.container {
+  max-width: 960px !important;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.logo-title {
+  text-align: right;
+  vertical-align: bottom;
+  }
+
+.aggo-screenshot {
+  width: 20%;
+  height: auto;
+}
+
+.tavern-logo {
+  background-color: #4fc1ea;
+}
+
+.tavern-screenshot {
+  width: 30%;
+  height: 300px;
+  border: 1px solid gray;
+  border-radius: 2px;
+}
+
+.page-top {
+  margin-top: 100px;
+}
+
+.segment {
+  border-bottom: 1px solid black;
+}
+
+.certification-segment {
+  padding-bottom: 50px;
+}
+
+.skills-list {
+  font-size: 25px;
+  display: flex;
+  align-items: stretch; /* Default */
+  justify-content: space-between;
+  width: 100%;
+  list-style-type: none;
+}
+
+.skills-segment {
+  margin-top: 50px;
+}
+
+.middle {
+  justify-content: space-around;
+}
